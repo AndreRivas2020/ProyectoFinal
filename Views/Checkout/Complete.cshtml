@@ -1,0 +1,10 @@
+﻿@model int
+
+@{
+ViewBag.Title = "Compra Completada";
+}
+<h2>Compra Completada</h2>
+<p>Gracias por tu compra! Tu número de orden es: @Model</p>
+<p>Te aconsejamos que sigas comprando en nuestra
+@Html.ActionLink("tienda", "Index", "Home")
+</p>
