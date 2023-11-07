@@ -1,0 +1,14 @@
+PROYECTO FINAL ANDRE RIVAS 201925506
+
+En este repositorio se encuentra el proyecto final que se basa en una página web de venta de música y este consta en la parte de arriba de 4 opciones (Inicio, Tienda, Administrar, Carrito)
+
+En inicio, podemos observar la página principal de la tienda y se observan los generos de música disponibles y los albumes recien salidos.
+                                                                                                                                                      
+En tienda, podemos observar los diferentes géneros que se encuentran habilitados para comprar.
+
+En Administrar, el admin puede crear, modificar, eliminar algún álbum nuevo o ya existente en la BD.
+
+En Carrito, podemos observar las compras que realizamos o si no tenemos ninguna.
+
+Esta página es muy amigable para el usuario, es muy sencilla de utilizar.
+                                                                                                                                              
